@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Logs and debug
+*.log
+*.out
+*.err
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# Data and models
+models/
+*.joblib
+*.pkl
+*.h5
+*.sav
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+*.swp
