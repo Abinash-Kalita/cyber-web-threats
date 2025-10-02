@@ -12,5 +12,6 @@ This project is focused on building an **ML-powered cybersecurity anomaly detect
 
 2. **Clone your fork locally**
    ```bash
-   git clone https://github.com/<your-username>/cyber-web-threats.git
+   git clone https://github.com/Abinash-Kalita/cyber-web-threats.git
    cd cyber-web-threats
+
