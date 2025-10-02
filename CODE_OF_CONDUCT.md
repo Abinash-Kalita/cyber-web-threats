@@ -1,3 +1,4 @@
+HEAD
 
 ---
 
@@ -27,3 +28,39 @@ Instances of abusive behavior may be reported by opening an issue or contacting 
 
 ## Attribution
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/).
+
+\# Contributing to Cyber Web Threats 🚀
+
+
+
+Thank you for your interest in contributing!  
+
+This project is focused on building an \*\*ML-powered cybersecurity anomaly detection tool\*\* with \*\*Streamlit\*\*.
+
+
+
+---
+
+
+
+\## 🛠 How to Contribute
+
+
+
+1\. \*\*Fork the repository\*\*  
+
+&nbsp;  - Click the \*\*Fork\*\* button on the top right of this repo.
+
+
+
+2\. \*\*Clone your fork locally\*\*
+
+&nbsp;  ```bash
+
+&nbsp;  git clone https://github.com/<your-username>/cyber-web-threats.git
+
+&nbsp;  cd cyber-web-threats
+
+
+
+ 5afd4aa (Update CODE_OF_CONDUCT.md)
